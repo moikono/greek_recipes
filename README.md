@@ -1,1 +1,1 @@
-# greek_recipes
+# Greek Recipes
